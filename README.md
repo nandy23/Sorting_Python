@@ -51,6 +51,7 @@ Analogi algoritma merge sort :
 5. Begitu seterusnya sehingga membentuk sebuah data yang tersusun dalam satu kelompok yang utuh.
 
 Referensi :
+
 https://www.pythonindo.com/insertion-sort-di-python/
 
 http://codinginpro.blogspot.com/2018/06/macam-macam-sorting-pada-python.html
