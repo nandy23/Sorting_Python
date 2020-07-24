@@ -52,5 +52,8 @@ Analogi algoritma merge sort :
 
 Referensi :
 https://www.pythonindo.com/insertion-sort-di-python/
+
 http://codinginpro.blogspot.com/2018/06/macam-macam-sorting-pada-python.html
+
 https://blogbugabagi.blogspot.com/2019/12/algoritma-sorting-bubble-sort-seletion.html
+
